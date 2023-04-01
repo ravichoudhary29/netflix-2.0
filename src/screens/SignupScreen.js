@@ -5,6 +5,7 @@ import "./SignupScreen.css";
 function SignupScreen() {
   const emailRef = useRef(null);
   const passwordRef = useRef(null);
+  
   const register = (e) => {
     e.preventDefault();
     auth

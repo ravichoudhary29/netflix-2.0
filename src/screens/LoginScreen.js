@@ -24,7 +24,7 @@ function LoginScreen() {
         ) : (
           <>
             <h1>Unlimited Films, TV Programmes and more.</h1>
-            <h2>Watch anywher. Cancel at anytime</h2>
+            <h2>Watch anywhere. Cancel at anytime</h2>
             <h3>
               Ready to watch? Enter your email to create or restart your
               membership.
