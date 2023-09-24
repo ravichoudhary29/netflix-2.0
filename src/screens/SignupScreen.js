@@ -52,6 +52,7 @@ function SignupScreen() {
           </span>
         </h4>
       </form>
+      <h5 className="sample">Sample id for login: email: ravi@test.com password: ravi1234</h5>
     </div>
   );
 }
